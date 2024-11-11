@@ -1,3 +1,4 @@
+![Screenshot 2024-11-11 204635](https://github.com/user-attachments/assets/a78632a7-a06f-452e-abec-4d7a143741d3)
 ![Screenshot 2024-11-11 203323](https://github.com/user-attachments/assets/ea99f508-cc5a-48a4-8c04-3da56cc13490)
 Quantum Maze Generator and Random Utilities
 This project provides three main components:
@@ -61,5 +62,6 @@ Contact:
 For inquiries or support, please reach out at [markosshenouda@gmail.com].
 
 Made by, Fun and Quirky Team!
-- Youssef Mostafa      - Mohammad walid 
-- Morkos Shenoda       - Youssef Tarek
+- Morkos Shenouda      - Mohammad walid 
+- Youssef Mostafa       - Youssef Tarek
+
