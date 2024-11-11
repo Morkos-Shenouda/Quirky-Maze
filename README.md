@@ -1,5 +1,6 @@
-![Screenshot 2024-11-11 204635](https://github.com/user-attachments/assets/a78632a7-a06f-452e-abec-4d7a143741d3)
-![Screenshot 2024-11-11 203323](https://github.com/user-attachments/assets/ea99f508-cc5a-48a4-8c04-3da56cc13490)
+
+![Screenshot 2024-11-11 212247](https://github.com/user-attachments/assets/dcb843bb-3ae9-400c-980f-15acb85029b7)
+
 Quantum Maze Generator and Random Utilities
 This project provides three main components:
 
