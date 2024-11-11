@@ -1,3 +1,5 @@
+![photo of the maze](Screenshot 2024-11-11 204635.png.jpg)
+
 This interactive maze game, built with Python and Pygame, uses a quantum-inspired random number generator. Players navigate a maze generated with a unique traversal method.
 
 Key Features:
