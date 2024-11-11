@@ -1,5 +1,4 @@
-Overview
-This project is an interactive maze game built with Python and Pygame, using a quantum-inspired random number generator to add unpredictability. Players navigate a maze with the goal of "catching" a moving button to claim their reward. The maze is generated using a unique traversal method that differs from traditional algorithms like BFS or DFS, providing a fresh and challenging experience.
+This interactive maze game, built with Python and Pygame, uses a quantum-inspired random number generator. Players navigate a maze generated with a unique traversal method.
 
 Key Features:
 Unique maze generation with an innovative traversal algorithm.
